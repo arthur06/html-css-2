@@ -307,6 +307,12 @@ li {
 }
 
 #linkje_van_malware{
-font-size: 1.5em;
-text-align: center;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#js-voor-games{
+  font-size: 1.5em;
+  color: #EEADDE;
+  text-align: center;
 }
