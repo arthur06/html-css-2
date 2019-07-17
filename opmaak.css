@@ -316,3 +316,21 @@ li {
   color: #EEADDE;
   text-align: center;
 }
+
+#game_titel{
+  color: green;
+  font-size: 5em;
+  text-align: center;
+}
+
+.game_lijst{
+  font-size: 2.5em;
+  color: #FEADEF;
+  text-align: center;
+}
+
+
+#lijst{
+text-align: center;
+font-size: 2em;
+}
